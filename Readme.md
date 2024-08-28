@@ -1,20 +1,4 @@
-![poster](./.github/poster.png)
-
 # 📚 Criando e Testando APIs com Cypress
-
-Aprenda a desenvolver APIs RESTful de forma eficiente utilizando Node.js e Express, integrando o MongoDB como banco de dados, e automatize todo o processo de testes de ponta a ponta com o Cypress.
-
-## 🛠️ Desenvolvimento de APIs
-
-Aprenda a criar APIs RESTful com Node.js e Express, estruturando rotas e implementando operações CRUD básicas.
-
-## 🗃️ Banco de Dados
-
-Você aprenderá a conectar sua aplicação ao MongoDB utilizando Mongoose, além de modelar e manipular dados através de schemas. 
-
-## 🔍 Testando APIs com Cypress
-
-Aprenda a criar testes para cada endpoint, focando nas operações CRUD. Vamos explorar técnicas para simular e validar respostas da API.
 
 ## **Pré-requisitos:**
 
@@ -32,7 +16,7 @@ Aprenda a criar testes para cada endpoint, focando nas operações CRUD. Vamos e
 
 ## **Prompt:**
 
-Crie uma API RESTful em Node.js para um sistema de cadastro de livros. A API deve incluir as seguintes funcionalidades:
+Criar uma API RESTful em Node.js para um sistema de cadastro de livros. A API deve incluir as seguintes funcionalidades:
 
 1. **Cadastro de livros**: Permita que os usuários cadastrem livros informando título, autor, editora, ano de publicação e número de páginas. Todos os campos são obrigatórios.
 2. **Listagem de livros**: Implemente um endpoint para listar todos os livros cadastrados, retornando todas as informações dos livros.
